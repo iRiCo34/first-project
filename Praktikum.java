@@ -4,6 +4,6 @@ public class Praktikum {
 
 
 // много кода
-
+// много кода
         }
 }
